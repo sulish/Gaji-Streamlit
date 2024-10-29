@@ -1,3 +1,2 @@
-namafile:requirements.txt
 joblib==1.4.2
 scikit-learn==1.5.2
